@@ -1,0 +1,5 @@
+---
+applications:
+  - name: dev-predix-boot-dsp-cf
+    buildpack: java_buildpack
+    path: target/predix-boot-dsp-cf-1.1.5.jar 

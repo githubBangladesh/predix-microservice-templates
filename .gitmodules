@@ -1,0 +1,13 @@
+[submodule "predix-microservice-cf-spring"]
+	path = predix-microservice-cf-spring
+	url = https://github.build.ge.com/adoption/predix-microservice-cf-spring.git
+	branch = master
+[submodule "predix-microservice-cf-jsr"]
+	path = predix-microservice-cf-jsr
+	url = https://github.build.ge.com/adoption/predix-microservice-cf-jsr.git
+	branch = master
+[submodule "rabbitmq-consumer-template"]
+	path = rabbitmq-consumer-template
+	url = https://github.build.ge.com/adoption/rabbitmq-consumer-template.git
+	branch = master
+
